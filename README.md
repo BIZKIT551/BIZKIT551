@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React JS to develop modern responsive web sites/apps and dapps
 - 👯 I’m looking to collaborate with devs on crypto related projects
-- 🤔 I’m looking for tips and tricks for developing a robust coding/scripting standard
+- 🤔 I’m looking for tips and tricks for developing a robust coding/scripting strategy
 ## 📨 You can reach me through: 
 <a href="https://t.me/BIZKIT551"><img height=50 style="padding-top:5px" src="https://files.brandlogos.net/svg/WMXi7xYVyY/Telegram-OfAicCi46_brandlogos.net.svg" alt="Telegram"></a>
 
