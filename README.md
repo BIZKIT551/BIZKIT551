@@ -14,11 +14,15 @@
 
 [<img align="left" alt="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](#)
 
+[<img align="left" alt="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="padding-right:10px;" />](#)
+
 [<img align="left" alt="React JS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](#)
 
 [<img align="left" alt="React JS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />](#)
 
 [<img align="left" alt="Bootstrap" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />](#)
+
+[<img align="left" alt="Bootstrap" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />](#)
 
 [<img align="left" alt="git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="padding-right:10px;" />](#)
 
