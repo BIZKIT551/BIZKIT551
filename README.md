@@ -25,3 +25,5 @@
 [<img align="left" alt="Visual Studio Code" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](#)
 
 [<img align="left" alt="Visual Studio Code" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" style="padding-right:10px;" />](#)
+
+[<img align="left" alt="Ubuntu" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />](#)
